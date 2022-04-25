@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://172.0.0.1:5507/lightcloud
+    username: lightcloud
+    password: alwaysblue!
+
+
